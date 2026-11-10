@@ -1,4 +1,3 @@
-# mobile_applications_mcq
 # Mobile Applications – MCQ Practice
 
 An interactive study and revision website for **Mobile Applications** students at **Atlantic Technological University (ATU), Sligo**.
